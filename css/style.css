@@ -1,0 +1,130 @@
+*{
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+.bg-gray-900{
+    background-color:rgb(40,42,53);
+} 
+.text-white{
+    color:white;
+}
+.block{
+    display: block;
+}
+.inline-block{
+    display: inline-block;
+}
+.inline{
+    display: inline;
+}
+.hidden{
+    display:none;
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-spaceBetween{
+    justify-content:space-between;
+}
+.justify-spaceEvenly{
+    justify-content:space-evenly;
+}
+.align-center{
+    align-items: center;
+}
+.align-start{
+    align-items: flex-start;
+}
+.align-end{
+    align-items: flex-end;
+}
+
+.p-header{
+    padding:18px 12px;
+}
+.p-header-items{
+    padding: 10px 20px;
+}
+.m-right-10{
+    margin-right:10px;
+}
+.m-right-25{
+    margin-right:25px;
+}
+.m-top-25{
+    margin-top:25px;
+}
+.deco-none{
+    text-decoration: none;
+}
+.font-lato{
+    font-family: 'Lato', sans-serif;
+}
+.button-color{
+    background-color:#539D98;
+}
+.border-n{
+    border: none;
+}
+.text-Uppercase{
+    text-transform: uppercase;
+}
+.text-bold{
+    font-weight: bold;
+}
+.ls{
+    letter-spacing:1px
+}
+.rel{
+    position: relative;
+}
+.hero-img{
+    position: relative;
+    top:-79px;
+}
+.z-10{
+position: relative;
+z-index: 10;
+}
+
+.text-purple{
+    color: purple;
+}
+.w-full{
+    width: 100%;
+}
+.object-cover{
+    object-fit:cover;
+}
+.abs{
+    position:absolute;
+}
+.text-teal{
+    color:#539D98
+}
+
+.p-button-2{
+    padding:10px 25px;
+}
+.pos-hero{
+    top:200px;
+    left:50px;
+}
+@media (min-width: 640px) { 
+
+}
+/* we cannot add margin and padding here because top and bottom in inline elements*/
+
+/* to use flex use it in the parent element to have effect on the child elements */
+
+/* display flex makes all the elements are placed next to each other changing the child elements to inline and the parent becoming the block level element*/
+
+/* for z index to work we use position relative  */
+
+/* check out video tag in html later */
