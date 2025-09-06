@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently learning working on E-commerce Website<br>⚡️Currently Learning AWS , Docker <br>💬 Love playing chess<br>📧 Reach out to me: jyotiraditya24@gmail.com
+🔭I'm currently learning working on Expense Tracking App<br>⚡️Currently Learning AWS , Docker <br>💬 Love playing chess<br>📧 Reach out to me: jyotiraditya24@gmail.com
 
 
 ## 🌐 Socials:
